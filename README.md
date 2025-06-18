@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shravan. With over 4 years of corporate expertise in C# and .NET technologies
 - 👀 I’m interested in coding, collaboration, and continuous learning
-- 🌱 I’m currently learning Angular and Azure for .Net and plan on learning react after this.
 - 💞️ I’m looking to collaborate anything on C#, .Net technologies
 - 📫 How to reach me : Phone : +919632897986, Email : nayak.shravan07@gmail.com
 - 😄 Pronouns: He/Him
